@@ -15,3 +15,11 @@ v
 Fscreenmath/screenmatch/src/br/com/alura/screenmatch/modelos/Serie.java,2\8\28fe664130f9916dc6eef311922d136bc233adf6
 w
 Gscreenmath/screenmatch/src/br/com/alura/screenmatch/modelos/Titulo.java,0\4\0477949d55776b21737dfb17091d89bda67a4094
+e
+5screenmath/screenmatch/src/desafioModulo/Produto.java,b\9\b914ea5eeda6c62216490ce2c0e511e9cb80e32a
+n
+>screenmath/screenmatch/src/desafioModulo/ProdutoPrincipal.java,9\1\916d92ceeb1471237f56b7e3eaff93adef6cc2e1
+n
+>screenmath/screenmatch/src/desafioModulo/ProdutoPerecivel.java,3\8\38305dfc03b52062de628fe688c8e5d838338aa7
+w
+Gscreenmath/screenmatch/src/desafioModulo/ProdutoPerecivelPrincipal.java,a\c\ac1de30b5b1fe79c1cdba5dbc765ad83dc29eb2d
