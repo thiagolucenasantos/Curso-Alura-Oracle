@@ -7,3 +7,7 @@ Fscreenmath/screenmatch/src/br/com/alura/screenmatch/modelos/Filme.java,e\4\e43
 Oscreenmath/screenmatch/src/br/com/alura/screenmatch/calculos/Classificavel.java,7\e\7ec8a106236ecbec47ebea7d800e227afacc82d6
 Y
 )screenmath/screenmatch/src/Principal.java,a\d\add9bbda540c48644c59b3847482b9e46495ce12
+l
+<screenmath/screenmatch/src/exercicios/exercicio1/Pessoa.java,5\0\501c15525a8bd227a17e84bcd29d8ee40a4710d9
+u
+Escreenmath/screenmatch/src/exercicios/exercicio1/PessoaPrincipal.java,9\5\957f1a5677118ae2d192261aeefa72c9e71b885d
