@@ -1,0 +1,13 @@
+
+‚
+java:S1854	"?Remove this useless assignment to local variable "notaDoFilme".(õåÈÒ8»ŒÑê1J$6883e15e-927e-4f22-854c-d02486c519c7
+r	java:S106"+Replace this use of System.out by a logger.(«İÑ©ÿÿÿÿÿ8“»ŒÑê1J$21cf7d01-6313-4c68-950e-4e19e87a1ea8
+m	java:S106"+Replace this use of System.out by a logger.(§ÀÌ„8”»ŒÑê1J$f57513e8-a4ef-4157-a870-76ab74c10b5e
+r	java:S106"+Replace this use of System.out by a logger.(ö›šØıÿÿÿÿ8–»ŒÑê1J$e7b1bbc0-da08-4a2f-98d4-55904e21425d
+|
+java:S1481"4Remove this unused "incluidoNoPlano" local variable.(¨ä’ôùÿÿÿÿ8˜»ŒÑê1J$97e35f2b-13ac-4b30-b8fc-10ad5a70bfec
+s
+java:S1481	"0Remove this unused "notaDoFilme" local variable.(õåÈÒ8™»ŒÑê1J$939e181d-bde3-4a8a-9c25-739b81483015
+r	java:S106"+Replace this use of System.out by a logger.(Áçˆııÿÿÿÿ8š»ŒÑê1J$206fbca2-bcc7-486b-ac48-d051dc3b905a
+r	java:S106"+Replace this use of System.out by a logger.(ÙæÅšúÿÿÿÿ8›»ŒÑê1J$fb306373-eb8f-4758-a388-b3a86b18f421
+m	java:S106"+Replace this use of System.out by a logger.(÷ˆ”¢8«ŠÑê1J$0e520f4a-0274-4519-94fa-2749d7b86274
