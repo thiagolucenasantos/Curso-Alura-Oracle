@@ -11,3 +11,7 @@ l
 <screenmath/screenmatch/src/exercicios/exercicio1/Pessoa.java,5\0\501c15525a8bd227a17e84bcd29d8ee40a4710d9
 u
 Escreenmath/screenmatch/src/exercicios/exercicio1/PessoaPrincipal.java,9\5\957f1a5677118ae2d192261aeefa72c9e71b885d
+v
+Fscreenmath/screenmatch/src/br/com/alura/screenmatch/modelos/Serie.java,2\8\28fe664130f9916dc6eef311922d136bc233adf6
+w
+Gscreenmath/screenmatch/src/br/com/alura/screenmatch/modelos/Titulo.java,0\4\0477949d55776b21737dfb17091d89bda67a4094
