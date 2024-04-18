@@ -1,0 +1,11 @@
+
+‚
+java:S1854":Remove this useless assignment to local variable "filme3".(ú±ûÿÿÿÿ8µï£ï1J$505ce8c3-b085-4395-ac73-8e48205fda7a
+‚
+java:S1854":Remove this useless assignment to local variable "filme2".(“ó‘ıÿÿÿÿ8¶ï£ï1J$2d54a6f5-e812-4837-9cec-f7ed41562e9e
+s
+java:S1481"+Remove this unused "filme2" local variable.(“ó‘ıÿÿÿÿ8¼ï£ï1J$8bfbda73-43b2-4590-ac78-0c23a43734d8
+s
+java:S1481"+Remove this unused "filme3" local variable.(ú±ûÿÿÿÿ8¾ï£ï1J$e59950f7-0aed-4c6c-b4d5-aeebe72ada27
+m	java:S106"+Replace this use of System.out by a logger.(Òà´Ç8Áï£ï1J$b194ee9c-7b8e-40c1-a275-10a85d77d47c
+r	java:S106"+Replace this use of System.out by a logger.(ë˜œÙøÿÿÿÿ8Ãï£ï1J$ff25b88f-4545-4ae8-b270-fa0dcfb41845

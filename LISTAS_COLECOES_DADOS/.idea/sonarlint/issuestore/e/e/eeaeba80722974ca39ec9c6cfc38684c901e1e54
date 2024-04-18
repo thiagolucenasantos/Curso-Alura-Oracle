@@ -1,0 +1,8 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(†‡ªê8£ÝÎ’ï1J$0e199166-c9a9-435a-943b-fd28eff3c55a
+
+java:S1854	"<Remove this useless assignment to local variable "cachorro".(ÉŒŸ¬8èÚÏ’ï1J$a7b17cd9-9734-44f9-b9cf-14fc22c33dd8
+
+java:S6201"JReplace this instanceof check and cast with 'instanceof Cachorro cachorro'(ÔîËµ8†Ÿê’ï1J$e1bc8950-e7d0-4bbb-ae49-2c1733a07367
+p
+java:S1481	"-Remove this unused "cachorro" local variable.(ÉŒŸ¬8ëÚÏ’ï1J$42bf13fc-06f1-407c-9aad-316fa2333a60
