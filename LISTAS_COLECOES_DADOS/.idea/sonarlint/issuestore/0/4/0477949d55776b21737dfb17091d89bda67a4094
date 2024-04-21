@@ -1,3 +1,5 @@
 
-r	java:S1065"+Replace this use of System.out by a logger.(´‘ÆÏûÿÿÿÿ8…‰ã×í1J$93f04923-8a43-4e56-bf05-aa803f646565
-m	java:S1066"+Replace this use of System.out by a logger.(Ñ¯Ê8…‰ã×í1J$435eb483-d5f8-4647-8db4-be20e23941fc
+œ
+java:S1210D"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(ƒ¤ôĞ8¡«éï1J$80ac928a-b463-4cdf-9edd-ba0a23a925c5
+r	java:S1065"+Replace this use of System.out by a logger.(´‘ÆÏûÿÿÿÿ8©Õâï1J$b6f8666b-1fba-4c2d-b1d5-d0f2f020a3f8
+m	java:S1066"+Replace this use of System.out by a logger.(Ñ¯Ê8ªÕâï1J$f56114c8-3d3f-4023-9628-a1421c681419

@@ -1,11 +1,19 @@
 
 ‚
-java:S1854":Remove this useless assignment to local variable "filme3".(ú±ûÿÿÿÿ8µï£ï1J$505ce8c3-b085-4395-ac73-8e48205fda7a
+java:S1854":Remove this useless assignment to local variable "filme3".(ú±ûÿÿÿÿ8”ÅÌºï1J$2624f796-771d-4026-a431-79b7bf44f096
 ‚
-java:S1854":Remove this useless assignment to local variable "filme2".(“ó‘ıÿÿÿÿ8¶ï£ï1J$2d54a6f5-e812-4837-9cec-f7ed41562e9e
+java:S1854":Remove this useless assignment to local variable "filme2".(“ó‘ıÿÿÿÿ8”ÅÌºï1J$cc808f96-1f61-4672-8cb8-4230ecb2ac90
 s
-java:S1481"+Remove this unused "filme2" local variable.(“ó‘ıÿÿÿÿ8¼ï£ï1J$8bfbda73-43b2-4590-ac78-0c23a43734d8
+java:S1481"+Remove this unused "filme2" local variable.(“ó‘ıÿÿÿÿ8—ÅÌºï1J$4bd0d911-53af-4181-9852-f3a0b37c2430
 s
-java:S1481"+Remove this unused "filme3" local variable.(ú±ûÿÿÿÿ8¾ï£ï1J$e59950f7-0aed-4c6c-b4d5-aeebe72ada27
-m	java:S106"+Replace this use of System.out by a logger.(Òà´Ç8Áï£ï1J$b194ee9c-7b8e-40c1-a275-10a85d77d47c
-r	java:S106"+Replace this use of System.out by a logger.(ë˜œÙøÿÿÿÿ8Ãï£ï1J$ff25b88f-4545-4ae8-b270-fa0dcfb41845
+java:S1481"+Remove this unused "filme3" local variable.(ú±ûÿÿÿÿ8˜ÅÌºï1J$3acbe482-0732-4595-86e8-4d88454392cc
+m	java:S106"+Replace this use of System.out by a logger.(Òà´Ç8œÅÌºï1J$ca748e18-7d37-4f71-be48-1c13e461749d
+r	java:S106"+Replace this use of System.out by a logger.(ë˜œÙøÿÿÿÿ8ÅÌºï1J$422d18df-6726-4ad9-bb1d-e25b7e63a222
+r	java:S106&"+Replace this use of System.out by a logger.(×Õß¢úÿÿÿÿ8ŸÅÌºï1J$6e2ab7f9-bd68-40a8-bd6d-0a1c90e0f75e
+m	java:S106*"+Replace this use of System.out by a logger.(Ç¬Ôê8 ÅÌºï1J$c36c398b-1c5a-4b18-9187-ae62202aab54
+r	java:S106+"+Replace this use of System.out by a logger.(ÆŸÀöøÿÿÿÿ8¡ÅÌºï1J$1076baab-dd95-46d8-a17d-a2653c00a52b
+m	java:S106-"+Replace this use of System.out by a logger.(îÛ¨ç8¢ÅÌºï1J$9498e5e5-92aa-4a34-89d5-98213f579395
+r	java:S106/"+Replace this use of System.out by a logger.(Ü’ÇÇúÿÿÿÿ8£ÅÌºï1J$1202dc79-b4b5-4209-963d-ac4f76ef5af5
+m	java:S1063"+Replace this use of System.out by a logger.(Ë´Ó¼8„åÒºï1J$49a94cfa-838b-4228-8cb4-368245f2ec80
+y
+java:S1128"1Remove this unused import 'java.util.Collection'.(¹ÉĞšùÿÿÿÿ8ŠŒÓºï1J$0ca81627-c978-4421-b526-55d247f6606a

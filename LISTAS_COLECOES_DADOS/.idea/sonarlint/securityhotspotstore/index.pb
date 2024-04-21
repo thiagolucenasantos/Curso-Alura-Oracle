@@ -47,3 +47,17 @@ Wscreenmath/screenmatch/src/br/com/alura/screenmatch/desafioListas/desafio4/Prod
 ]screenmath/screenmatch/src/br/com/alura/screenmatch/desafioListas/desafio3/ContaBancaria.java,f\d\fd30f52fe9fdf2706b65b2d815459e56625f49e4
 –
 fscreenmath/screenmatch/src/br/com/alura/screenmatch/desafioListas/desafio3/PrincipalContaBancaria.java,a\e\aea8dfaa86a413589a4543937352efb186230beb
+š
+jscreenmath/screenmatch/src/br/com/alura/screenmatch/desafiosCollections/desafio1/ListaNumerosInteiros.java,b\1\b1e0da5cf2af1f6637dd817f009cde3fc9c76b45
+Œ
+\screenmath/screenmatch/src/br/com/alura/screenmatch/desafiosCollections/desafio2/Titulo.java,9\5\95c21a17bcee60c1dbb6d093f62fd067cc930aac
+•
+escreenmath/screenmatch/src/br/com/alura/screenmatch/desafiosCollections/desafio2/PrincipalTitulo.java,3\6\3631e555f88ff42e890c6ac1bc280ab5fa47eee5
+‹
+[screenmath/screenmatch/src/br/com/alura/screenmatch/desafiosCollections/desafio4/Lista.java,b\6\b6c6493f48e4dd23914314dd6393cc4fa59a12f5
+v
+Fscreenmath/screenmatch/src/simuladorDeComprasCartao/CartaoCredito.java,0\9\090a2e05646185ec8a59de14114ea0d1a09b824c
+o
+?screenmath/screenmatch/src/simuladorDeComprasCartao/Compra.java,8\c\8c9c9bb94bfc6fd020ce04c7168a4bb5ba525f1a
+y
+Iscreenmath/screenmatch/src/simuladorDeComprasCartao/PrincipalCompras.java,0\8\0842b41104558348dcfe58b6eec5cbef43f55b7b

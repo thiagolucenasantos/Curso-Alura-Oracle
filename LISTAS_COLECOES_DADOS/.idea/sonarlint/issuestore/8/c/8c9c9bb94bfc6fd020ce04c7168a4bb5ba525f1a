@@ -1,0 +1,6 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ğ¶¼¼8éÕü„ğ1J$4a129fb9-18e4-4774-998d-f34505afeaac
+œ
+java:S1210"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(¿Åš×8»¦¿…ğ1J$a826f115-2918-4f6b-bccb-dd1c457c32d7
+š
+java:S1158"WCall the static method Double.compare(...) instead of instantiating a temporary object.(ËïÜù8ÏÅÈ…ğ1J$92f9111f-280c-47fd-94f4-d9d66be9d08c

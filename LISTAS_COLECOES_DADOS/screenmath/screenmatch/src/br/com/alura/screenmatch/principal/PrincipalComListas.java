@@ -5,6 +5,9 @@ import br.com.alura.screenmatch.modelos.Serie;
 import br.com.alura.screenmatch.modelos.Titulo;
 
 import java.util.ArrayList;
+import java.util.Collection;
+import java.util.Collections;
+import java.util.Comparator;
 
 public class PrincipalComListas {
     public static void main(String[] args) {
@@ -28,5 +31,23 @@ public class PrincipalComListas {
                 System.out.println("Classificação: " + filme.getClassificacao());
             }
         }
+        ArrayList<String> buscaPorArtistas = new ArrayList<>();
+        buscaPorArtistas.add("Clark");
+        buscaPorArtistas.add("Mulher Maravilha");
+        buscaPorArtistas.add("Homem de Ferro");
+        System.out.println("Antes de ordenar a lista: " + buscaPorArtistas);
+
+        //utilizando Collections para ordenar a lista
+        Collections.sort( buscaPorArtistas);
+        System.out.println("Depois de ordenar utilizando o Collections: ");
+        System.out.println(buscaPorArtistas);
+
+        System.out.println("-----Listas de títulos ordenadas após a implementação do comparable na classe título----");
+        Collections.sort(listas);
+        System.out.println(listas);
+
+        //Exemplo de comparação da listas pelo ano de lançamento
+        listas.sort(Comparator.comparing(Titulo::getAnoDeLancamento));
+        System.out.println("Ordenando por ano: " + listas);
     }
 }
