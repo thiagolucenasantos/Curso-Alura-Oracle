@@ -3,3 +3,5 @@
 java:S1210P"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(ƒ¤ôĞ8âşÒ‹ñ1J$f8c1cb3e-bafe-4ef1-9dd5-2166c2dff395
 r	java:S106B"+Replace this use of System.out by a logger.(´‘ÆÏûÿÿÿÿ8ïşÒ‹ñ1J$57d292a5-1008-4b74-9dea-c28391d07723
 m	java:S106C"+Replace this use of System.out by a logger.(Ñ¯Ê8ğşÒ‹ñ1J$4267c279-262d-4f9a-8bb2-557b5b0778d8
+d
+java:S1128"GRemove this unused import 'com.google.gson.annotations.SerializedName'.(äöúõ8ú²¿®ñ1

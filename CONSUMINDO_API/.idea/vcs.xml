@@ -2,5 +2,6 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Api_Busca_de_Cep/Api_Buscador_Cep" vcs="Git" />
   </component>
 </project>
