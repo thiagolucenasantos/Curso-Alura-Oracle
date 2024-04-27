@@ -1,0 +1,14 @@
+
+Q
+java:S1854"6Remove this useless assignment to local variable "f1".(¶™ ¶øÿÿÿÿ
+B
+java:S1481"'Remove this unused "f1" local variable.(¶™ ¶øÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(ÉÃ®Â
+@	java:S106!"+Replace this use of System.out by a logger.(Ö½ˆõ
+E	java:S106)"+Replace this use of System.out by a logger.(ÏÐ¡§ûÿÿÿÿ
+E	java:S106,"+Replace this use of System.out by a logger.(—Å£×üÿÿÿÿ
+E	java:S106-"+Replace this use of System.out by a logger.(ÏÐ¡§ûÿÿÿÿ
+@	java:S106."+Replace this use of System.out by a logger.(¼ñ·®
+@	java:S1060"+Replace this use of System.out by a logger.(µž„ò
+@	java:S1062"+Replace this use of System.out by a logger.(€²·×
+@	java:S1063"+Replace this use of System.out by a logger.(µž„ò
