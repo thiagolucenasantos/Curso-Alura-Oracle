@@ -1,0 +1,6 @@
+API - ExchangeRate (Conversor de Moedas)
+
+https://www.exchangerate-api.com/
+
+Your API Key: e5ed270126c9ace7ee595d72
+Example Request: https://v6.exchangerate-api.com/v6/e5ed270126c9ace7ee595d72/latest/USD
